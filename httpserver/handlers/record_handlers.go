@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/gocraft/web"
-	"github.com/royvandewater/meshchain/engine/record"
+	"github.com/royvandewater/meshchain/record"
 )
 
 // CreateRecord handles a POST Record request
