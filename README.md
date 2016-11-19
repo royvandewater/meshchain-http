@@ -1,2 +1,2 @@
-# meshchain-http
+# meshchain-server-http
 http frontend for meshchain

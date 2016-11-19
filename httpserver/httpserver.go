@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/gocraft/web"
-	"github.com/royvandewater/meshchain-http/httpserver/handlers"
+	"github.com/royvandewater/meshchain-server-http/httpserver/handlers"
 )
 
 // HTTPServer provides an HTTP API for the meshbluchain engine

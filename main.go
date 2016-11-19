@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/coreos/go-semver/semver"
-	"github.com/royvandewater/meshchain-http/httpserver"
+	"github.com/royvandewater/meshchain-server-http/httpserver"
 	"github.com/urfave/cli"
 	De "github.com/visionmedia/go-debug"
 )
